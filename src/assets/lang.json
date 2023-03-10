@@ -1,0 +1,67 @@
+[
+  {
+    "language" : "de",
+    "side_1" : "Proberen",
+    "side_2": "Versuchen"
+  },
+  {
+    "language" : "de",
+    "side_1" : "Het hangt af van ...",
+    "side_2": "Es hängt davon ab"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Ik wil",
+    "side_2": "Io voglio"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Jij wil",
+    "side_2": "lei vuole"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Jij zou graag willen",
+    "side_2": "ti piacerebbe"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Ik zou graag willen",
+    "side_2": "Io Vorrei"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Wat wil je doen?",
+    "side_2": "Qual cosa vuoi fare"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Waar wil je lunchen?",
+    "side_2": "Dove lei vuoi pranzare?"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Ik ook",
+    "side_2": "Anche io (uitspr. ankiejoo)"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Ik wil nu wat eten en drinken",
+    "side_2": "Io Voglio qualcosa da mangiare e da bere adesso"
+  },
+  {
+    "language" : "it",
+    "side_1" : "Nu",
+    "side_2": "Adesso"
+  },
+  {
+    "language" : "es",
+    "side_1" : "lachen",
+    "side_2": "reir"
+  },
+  {
+    "language": "de",
+    "side_1": "ik heb een begin gemaakt",
+    "side_2": "Ich habe einen Anfang gemacht"
+  }
+]
